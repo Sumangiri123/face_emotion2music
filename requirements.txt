@@ -2,7 +2,7 @@ streamlit
 opencv-python-headless
 numpy
 mediapipe
-tensorflow
 keras
-python-dotenv
+tensorflow
 spotipy
+python-dotenv
