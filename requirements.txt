@@ -1,8 +1,9 @@
-streamlit
-opencv-python-headless
-numpy
-mediapipe
-keras
-tensorflow
-spotipy
-python-dotenv
+python==3.10.*
+streamlit>=1.0.0
+opencv-python-headless>=4.5.5.62
+numpy>=1.21.0
+mediapipe>=0.8.11
+keras>=2.10.0
+tensorflow>=2.10.0
+spotipy>=2.22.0
+python-dotenv>=0.21.0
