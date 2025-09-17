@@ -1,0 +1,56 @@
+# -------------------------
+# Python cache & bytecode
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# -------------------------
+# Virtual Environment
+# -------------------------
+emotion_env/
+venv/
+env/
+.venv/
+
+# -------------------------
+# Streamlit Cache
+# -------------------------
+.streamlit/
+.cache/
+
+# -------------------------
+# Jupyter / Colab
+# -------------------------
+.ipynb_checkpoints/
+*.ipynb
+
+# -------------------------
+# OS files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Model files
+# -------------------------
+*.h5
+*.pkl
+*.pt
+*.onnx
+
+# -------------------------
+# Logs & temp
+# -------------------------
+*.log
+*.tmp
+*.swp
+
+# -------------------------
+# Credentials / Secrets
+# -------------------------
+*.env
+config.json
+secrets.json
